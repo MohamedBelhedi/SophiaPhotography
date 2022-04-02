@@ -6,15 +6,15 @@ var bilder=document.querySelector('.bilder')
 
 
 
-if(bilder)
+// if(bilder)
 
-{
-
-
-    alert("Hallo ich Bin Sophia Nofz")
+// {
 
 
-}
+//     alert("Hallo ich Bin Sophia Nofz")
+
+
+// }
 
 
 }
@@ -23,7 +23,7 @@ if(bilder)
 function insta()
 {
 
-window.open("https://instagram.com/sophianofz?utm_medium=copy_link","_blank")
+window.open("https://instagram.com/sophialouise_fotografie?utm_medium=copy_link","_blank")
 
 
 }
