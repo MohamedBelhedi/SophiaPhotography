@@ -849,7 +849,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 
     #carouselExampleControls{
         /* flex-wrap: wrap; */
-        margin-left:35rem;
+        margin-left:34rem;
         width:500px;
         height:160px;
         justify-content:center;
@@ -858,6 +858,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
         cursor:pointer;
         
     }
+  
 
 
 
@@ -956,7 +957,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     background-color: #FF3B30;
 }
 
-img,carousel-item,carousel-inner,carousel{
+img,carousel-item,carousel-inner{
 
     flex-wrap: wrap;
     margin:10px;
