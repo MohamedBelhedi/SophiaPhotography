@@ -37,7 +37,7 @@ var text='Hallo Meine Name......., ich möchte einen Fotoshooting'
 
 Swal.fire({
     title: 'Sicher das du über Whatapp mit mir Kommunzieren willst?',
-    text: "Mit dem Klicken auf dem Whatapp Button erklären Sie sich damit einverstanden, das sie diesen Service der Facebook Gruppe nutzen um mit mir zu kommunizieren, wenn Sie diese nicht wünschen dann bitte auf abbrechen Klicken",
+    text: "Mit dem Klicken auf dem Whatapp Button erklären Sie sich damit einverstanden, das sie diesen Service der Facebook-Meta Gruppe nutzen um mit mir zu kommunizieren, wenn Sie diese nicht wünschen dann bitte auf abbrechen Klicken",
     icon: 'warning',
     showCancelButton: true,
     confirmButtonColor: '#3085d6',
