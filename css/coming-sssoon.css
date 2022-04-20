@@ -644,6 +644,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
         padding-top: 0px;
         background-color: rgba(0, 0, 0, 0.75);
         height:100px;
+        width:400px;
     }
     .navbar-transparent .navbar-collapse.in .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-transparent .navbar-collapse.in .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-transparent .dropdown-menu > li > a:hover, .navbar-transparent .dropdown-menu > li > a:focus, [class*="navbar-ct"] .dropdown-menu > li > a:hover, [class*="navbar-ct"] .dropdown-menu > li > a:focus{
         color: #FFFFFF;
@@ -982,15 +983,9 @@ img:hover{
 }
 
 #carouselExampleControls{
-    /* flex-wrap: wrap; */
-    /* margin:10px;
-    width:500px;
-    height:160px;
-    justify-content:center;
-    border-radius: 4rem;
-    transition: all 1.5s;
+    
     cursor:pointer;
-    margin-left: 100px; */
+
 }
  a {
 
