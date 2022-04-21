@@ -139,7 +139,28 @@ close4.addEventListener("click",close_modal4)
   // })
 
   }
+  function webseiten1(){window.open("https://www.google.de")}
+  function webseiten2(){window.open("https://www.codepen.io")}
+  function webseiten3(){window.open("https://www.stackoverflow.com")}
 
+  
+  function links(){
+
+  let links=document.querySelectorAll("#link")
+
+    links.forEach(()=>{
+
+      links[0].addEventListener("click",webseiten1)
+      links[1].addEventListener("click",webseiten2)
+      links[2].addEventListener("click",webseiten3)
+
+
+
+    })
+
+
+
+  }
 
 
 
@@ -157,4 +178,5 @@ close4.addEventListener("click",close_modal4)
 
 // }
 service();
+links();
 
